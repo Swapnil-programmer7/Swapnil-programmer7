@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Websites
 - 📫 How to reach me : You can mail me or visit my social media profiles from here: https://swapnil-programmer7.github.io/Swapnil/
-
+- 🤖 I have enrolled in a national level Robotic competition, which also aims at imparting knowledge through project based learning. Really excited for the whole experience.
 
 <!---
 Swapnil-programmer7/Swapnil-programmer7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
