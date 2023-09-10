@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swapnil-programmer7
 - 👀 I’m interested in Development projects and Business analyses.
-- 🌱 I’m currently learning Competitive Programming and different frameworks. //Summer Vacations
+- 🌱 I’m currently learning Competitive Programming and different frameworks.
 - 🧪 I'm on Twitter, reach out to me if you find me interesting. Here: https://twitter.com/Shekhar_Sw_pn_l
 - 💞️ I’m looking to collaborate on websites or participate in hackathons and projects.
 - 📫 How to reach me: You can mail me or visit my social media profiles from here: https://swapnil-programmer7.github.io/Swapnil/
